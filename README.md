@@ -7,9 +7,8 @@ Generate a QR code image from the entered URL.
 Save the user input (URL) to a text file for reference.
 # Prerequisites
 ## Technologies Used
-
-- JavaScript
 - Node.js
+- NPM
 Before you begin, ensure you have met the following requirements:
 
 Node.js installed on your machine.
