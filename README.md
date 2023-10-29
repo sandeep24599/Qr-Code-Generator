@@ -1,3 +1,6 @@
+## Technologies Used
+- Node.js
+- NPM
 # QR Code Generator
 This is a simple command-line tool that allows users to generate QR codes from URLs. It uses the Inquirer npm package to prompt the user for a URL, the qr-image npm package to create the QR code image, and the native fs module to save user input to a text file.
 
@@ -6,9 +9,6 @@ Easily input a URL using the command line.
 Generate a QR code image from the entered URL.
 Save the user input (URL) to a text file for reference.
 # Prerequisites
-## Technologies Used
-- Node.js
-- NPM
 Before you begin, ensure you have met the following requirements:
 
 Node.js installed on your machine.
